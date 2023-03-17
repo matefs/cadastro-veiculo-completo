@@ -179,6 +179,7 @@ function VehicleForm() {
           />
         </label>
         <br />
+        
         <label>
           Carroceria:
           <input
@@ -189,6 +190,7 @@ function VehicleForm() {
           />
         </label>
         <br />
+
         <label>
           Portas Laterais:
           <input
@@ -199,6 +201,7 @@ function VehicleForm() {
           />
         </label>
         <br />
+
         <label>
           Ano Fabr.:
           <input
@@ -209,6 +212,7 @@ function VehicleForm() {
           />
         </label>
         <br />
+
         <label>
           Ano Modelo:
           <input
